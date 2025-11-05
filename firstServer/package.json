@@ -1,0 +1,29 @@
+{
+  "name": "firsr-server-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is first server project",
+  "keywords": [
+    "server",
+    "by",
+    "meeta"
+  ],
+  "homepage": "https://github.com/meeta1308/NodeJourney#readme",
+  "bugs": {
+    "url": "https://github.com/meeta1308/NodeJourney/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meeta1308/NodeJourney.git"
+  },
+  "license": "ISC",
+  "author": "Meeta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.1.0"
+  }
+}
