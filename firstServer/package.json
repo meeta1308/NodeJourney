@@ -1,7 +1,7 @@
 {
   "name": "firsr-server-project",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "description": "This is first server project",
   "keywords": [
     "server",
